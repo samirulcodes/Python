@@ -96,3 +96,4 @@
 # >>> new_dict= dict.fromkeys(keys, keys) # when passing both key ---> o/p--?
 # >>> new_dict #printing
 # {'Masala': ['Masala', 'Ginger', 'Lemon'], 'Ginger': ['Masala', 'Ginger', 'Lemon'], 'Lemon': ['Masala', 'Ginger', 'Lemon']}  
+
